@@ -1,0 +1,23 @@
+       
+    .footer{
+        background-color: black;
+        color: white;
+        display:flex;
+        justify-content: space-between;
+    
+    
+}
+.div2{
+    
+    padding: 10px;
+    margin: 5%;
+
+}
+.button{
+    border-radius: 20px;
+    background-color: blue;
+    margin:5%;
+    padding:10px ;
+
+
+}
